@@ -4,3 +4,4 @@ In this Task ,I have created a button input which will accept only csv and json 
 
 <img width="960" alt="Screenshot 2023-12-31 212814" src="https://github.com/Sapansharma522/SMARTSERV_TASK2/assets/76728466/1d491dd2-c4f9-4001-82f3-7bebd0c25cb7">
 
+<img width="960" alt="Screenshot 2023-12-31 212805" src="https://github.com/Sapansharma522/SMARTSERV_TASK2/assets/76728466/94eeb08b-0100-4258-9a26-ee997345dadb">
